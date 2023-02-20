@@ -33,5 +33,5 @@ print(Dict4[1])
   
 # accessing a element using get() 
 # method 
-print("Accessing a element using get:") 
+print("Accessing a element using get method:") 
 print(Dict4.get('name')) 
